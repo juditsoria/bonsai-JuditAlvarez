@@ -9,8 +9,8 @@ Sin embargo, en los últimos años las cosas han mejorado, desde el año 2018 po
 Hay algunos frameworks de css como Bootstrap [que se utiliza ampliamente en ~ 30% de los sitios web del mundo.](https://w3techs.com/technologies/details/js-bootstrap), Foundation, Material UI, etc. El objetivo de este ejercicio es pulir tus habilidades en CSS/HTML puro.
 
 ## 📝 Instrucciones
-
-1. Reproduce exactamente [la página de este producto](https://github.com/breatheco-de/exercise-product-landing-page-plain-css/blob/master/.learn/assets/preview.png?raw=true) en HTML/CSS. No puedes usar ningún framework CSS y la página de inicio no debe ser interactiva.
+https://github.com/breatheco-de/exercise-product-landing-page-plain-css/blob/master/.learn/assets/preview.png?raw=true
+1. Reproduce exactamente [la página de este producto]() en HTML/CSS. No puedes usar ningún framework CSS y la página de inicio no debe ser interactiva.
 2. Usa la imágenes de la carpeta `./assets`.
 3. Usa las reglas de CSS flex-box, aquí hay un muy buen documento que explica todo al respecto: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
